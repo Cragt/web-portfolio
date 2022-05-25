@@ -1,1 +1,1 @@
-This is a simple portfolio website I'm building as my knowledge of web development grows. 
+This is a simple portfolio website I'm building using HTML, CSS and JS.
