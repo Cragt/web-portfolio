@@ -1,23 +1,22 @@
-*{
-    text-align: center;
-    width: 600px;
-    padding: 8px;
-    margin: 4px auto;
+* {
+  padding: 8px;
+  margin: 4px auto;
 }
 
 h1 {
-    font-family: 'Courier New', Courier, monospace;
-    background-color: aquamarine;
+  font-family: "Courier New", Courier, monospace;
+  :aquamarine ;
 }
 
-.p1 {
-    background-color:rgb(214, 127, 236);
+.tabs {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
-.p2 {
-    background-color:rgb(0, 195, 255)
+.body-text {
+  display: flex;
+  margin-top: 350px;
+  margin-left: 100px;
+  margin-right: 800px;
 }
-
-.p3 {
-    font-size: 40px;
-}background-color: brown;
